@@ -1,0 +1,5 @@
+Git is a distributed version control system.
+Git is free software.
+发个非官方个地方
+地方地方大幅度
+Git has a mutable index called stage.
